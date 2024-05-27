@@ -6,4 +6,3 @@
 
 - 🔭 I’m majored in Software Engineering in DUT.
 - ⚡ And I'm learning Japanese, too.
-- 🌱 I’m currently learning Ray Tracing mainly by implementing the *Ray Tracing in One Weekend* series. See [here](https://github.com/OuOu2021/ouou_raytracing).
