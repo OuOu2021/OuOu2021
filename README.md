@@ -1,4 +1,4 @@
-### Hi, I'm OuOu2021
+### Hi, I'm Capyoca
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6-41cd52.svg)
@@ -9,5 +9,5 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 
 
-- 🔭 I’m majored in Software Engineering in DUT.
-- ⚡ And I'm learning Japanese, too.
+- 🔭 Bachelor's in Software Engineering, Dalian University of Technology.
+- ⚡ I'm learning Japanese.
